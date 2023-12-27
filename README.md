@@ -1,4 +1,4 @@
-<h1>**Data Analysis and Machine Learning Repository**</h1>
+<h1><b></b>Data Analysis and Machine Learning Repository</b></h1>
 
 
 **Overview**
