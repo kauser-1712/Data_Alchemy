@@ -1,4 +1,5 @@
-#**Data Analysis and Machine Learning Repository**
+<h1>**Data Analysis and Machine Learning Repository**</h1>
+
 
 **Overview**
 Welcome to the Air Quality Analysis and Machine Learning Repository! This repository hosts a collection of projects related to air quality data analysis and machine learning. The projects included focus on exploratory data analysis (EDA), classification algorithms, and various machine learning techniques applied to air quality datasets.
